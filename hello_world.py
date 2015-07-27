@@ -4,15 +4,21 @@ That can be executed in both, python 2.x and 3.x
 """
 import sys
 
-#Language specific strings
-h_world = "Hello world!"
-p_key = "Press Enter to close this program"
+#Select language
+L = 'English'
+#L= 'German'
+
+#Language specific string
+EN = {'h_world':  "Hello world!",
+'p_key': "Press Enter to close this program"}
+DE = {'h_world':  "Hello Welt!",
+'p_key': "Druecke Enter um das Programm zu schliessen"}
+words = {'English': EN,
+         'German': DE}
 
 if sys.version_info[0]< 3:
-    print h_world
+    print words[L]['h_world']
 else:
-    print(h_world)
+    print(words[L]['h_world'])
 
-raw_input(p_key) 
-
-
+raw_input(words[L]['p_key'])
