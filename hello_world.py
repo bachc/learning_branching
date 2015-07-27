@@ -1,6 +1,6 @@
 """
 This is a simple python hello world script,
-That can be executed in both, python 2.7 and 3.x
+That can be executed in both, python 2.x and 3.x
 """
 import sys
 
