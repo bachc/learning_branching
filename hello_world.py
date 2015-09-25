@@ -16,6 +16,8 @@ CHN = {'h_world': "??????",
 'p_key': '?????????'}
 BDR2 = {'h_world':  "Hello world!",
 'p_key': "Press Enter to close this program"}
+BDR3 = {'h_world':  "Hello world!",
+'p_key': "Press Enter to close this program"}
 
 Language_dicts = {'English': EN,
          'German': DE, 'Swabian German': DE1, 'Spanish': ES, 'Chinese': CHN}
