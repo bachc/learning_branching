@@ -14,9 +14,12 @@ ES = {'h_world': "¡Hola Mundo!",
 'p_key': 'Aprieta Enter para cerrar el programa'}
 CHN = {'h_world': "你好，世界！",
 'p_key': '请按回车键关闭程序'}
+ITA = {'h_world': "Ciao mondo!",
+'p_key': "Premi Enter per chiudere il programma"}
 
 Language_dicts = {'English': EN,
-         'German': DE, 'Swabian German': DE1, 'Spanish': ES, 'Chinese': CHN}
+         'German': DE, 'Swabian German': DE1, 'Spanish': ES, 
+         'Chinese': CHN, 'Italian': ITA}
 
 L = input('Select language ')
 
