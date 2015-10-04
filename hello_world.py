@@ -20,10 +20,12 @@ OK = {'h_world':  "Hey Ya'll!",
 'p_key':  "Hit Enter to shut this program down"}
 SK = {'h_world':  "जगत नमस्कारः ",
 'p_key':  "Hit Enter to shut this program down"}
-
+URD = {'h_world': " السلام علیکم"}
+'p_key':  "Hit Enter to shut this program down"}
 Language_dicts = {'English': EN,
          'German': DE, 'Swabian German': DE1, 'Spanish': ES, 
-         'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK}
+         'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
+          'Urdu': URD}
 
 L = input('Select language ')
 
