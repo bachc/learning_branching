@@ -1,9 +1,11 @@
 ﻿"""
 This is a simple python hello world script,
-That can be executed in both, python 2.x and 3.x
+That can be executed only in python 3.x.
+Chinese, sanscrict, and Urdu are not compatible
+with python 2.x file encoding.
 """
 
-#Language specific string
+#Language specific strings
 EN = {'h_world':  "Hello world!",
 'p_key': "Press Enter to close this program"}
 DE = {'h_world':  "Hallo Welt!",
@@ -17,10 +19,10 @@ CHN = {'h_world': "你好，世界！",
 ITA = {'h_world': "Ciao mondo!",
 'p_key': "Premi Enter per chiudere il programma"}
 OK = {'h_world':  "Hey Ya'll!",
-'p_key':  "Hit Enter to shut this program down"}
+'p_key':  "Gotta shut-er down, y'all!"}
 SK = {'h_world':  "जगत नमस्कारः ",
 'p_key':  "Hit Enter to shut this program down"}
-URD = {'h_world': " السلام علیکم"}
+URD = {'h_world': " السلام علیکم",
 'p_key':  "Hit Enter to shut this program down"}
 Language_dicts = {'English': EN,
          'German': DE, 'Swabian German': DE1, 'Spanish': ES, 
