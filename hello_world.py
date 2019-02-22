@@ -32,7 +32,7 @@ Language_dicts = {'English': EN,
 
 print(Language_dicts.keys())
 
-L = input('Select language ')
+L = input('Select language_ ')
 print(Language_dicts[L]['h_world'])
 input(Language_dicts[L]['p_key'])
 input()
