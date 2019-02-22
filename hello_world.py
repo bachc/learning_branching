@@ -26,7 +26,7 @@ URD = {'h_world': " السلام علیکم",
 'p_key':  "Hit Enter to shut this program down"}
 
 Language_dicts = {'English': EN,
-         'German': DE, 'Swabian German': DE1, 'Spanish': ES, 
+         'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
           'Urdu': URD}
 
