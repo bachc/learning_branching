@@ -26,7 +26,7 @@ URD = {'h_world': " السلام علیکم",
 'p_key':  "Hit Enter to shut this program down"}
 PUNJ = {'h_world': "Sati srī akāla duni'ā",
 'p_key':  "Hit Enter to shut this program down"}
-BEN = {'h_world': "ওহে বিশ্ব",
+BEN = {'h_world': "ওহে  বিশ্ব",
 'p_key':  "Hit Enter to shut this program down"}
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
