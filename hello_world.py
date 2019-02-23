@@ -32,6 +32,10 @@ Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
           'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN}
+Language_dicts = {'English': EN,
+         'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
+         'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
+          'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN}
 
 print(Language_dicts.keys())
 
