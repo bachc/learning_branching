@@ -26,16 +26,31 @@ URD = {'h_world': " السلام علیکم",
 'p_key':  "Hit Enter to shut this program down"}
 PUNJ = {'h_world': "Sati srī akāla duni'ā",
 'p_key':  "Hit Enter to shut this program down"}
+<<<<<<< HEAD
 BEN = {'h_world': "ওহে  বিশ্ব",
 'p_key':  "Hit Enter to shut this program down"}
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
           'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN}
+=======
+<<<<<<< HEAD
+BEN = {'h_world': "ওহে  বিশ্ব",
+'p_key':  "Hit Enter to shut this program down"}
+>>>>>>> d5d73b53358f55ea24776aa75b2286af1fd169e8
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
           'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN}
+<<<<<<< HEAD
+=======
+=======
+Language_dicts = {'English': EN,
+         'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
+         'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
+          'Urdu': URD,'Punjabi': PUNJ}
+>>>>>>> cacecea41508c43f93b92081a7eae7a795503d03
+>>>>>>> d5d73b53358f55ea24776aa75b2286af1fd169e8
 
 print(Language_dicts.keys())
 
