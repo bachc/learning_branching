@@ -24,11 +24,12 @@ SK = {'h_world':  "जगत नमस्कारः ",
 'p_key':  "Hit Enter to shut this program down"}
 URD = {'h_world': " السلام علیکم",
 'p_key':  "Hit Enter to shut this program down"}
-
+PUNJ = {'h_world': "Sati srī akāla duni'ā",
+'p_key':  "Hit Enter to shut this program down"}
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
-          'Urdu': URD}
+          'Urdu': URD,'Punjabi': PUNJ}
 
 print(Language_dicts.keys())
 
