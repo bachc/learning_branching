@@ -31,14 +31,10 @@ BEN = {'h_world': "ওহে  বিশ্ব",
 YO = {'h_world': "Mo ki O Ile Aiye!",
 'p_key': "Tẹ Tẹ lati pa eto yii"}
 
-VI = {'h_world': "Chào thế giới!",
-'p_key': "Hit Enter to shut this program down"}
-
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
-         'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN, 'Yoruba': YO,
-         'Vietnamese':VI}
+         'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN, 'Yoruba': YO}
 
 print(Language_dicts.keys())
 
