@@ -26,12 +26,14 @@ URD = {'h_world': " السلام علیکم",
 'p_key':  "Hit Enter to shut this program down"}
 PUNJ = {'h_world': "Sati srī akāla duni'ā",
 'p_key':  "Hit Enter to shut this program down"}
+BEN = {'h_world': "ওহে  বিশ্ব",
+'p_key':  "Hit Enter to shut this program down"}
 YO = {'h_world': "Mo ki O Ile Aiye!",
 'p_key': "Tẹ Tẹ lati pa eto yii"}
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
-          'Urdu': URD,'Punjabi': PUNJ, 'Yoruba': YO}
+          'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN, 'Yoruba': YO}
 
 print(Language_dicts.keys())
 
