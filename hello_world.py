@@ -37,8 +37,8 @@ VI = {'h_world': "Chào thế giới!",
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
-          'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN, 'Yoruba': YO,
-                  'Vietnamese':VI}
+         'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN, 'Yoruba': YO,
+         'Vietnamese':VI}
 
 print(Language_dicts.keys())
 
