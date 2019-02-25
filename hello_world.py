@@ -38,12 +38,14 @@ CEB = {'h_world':"Hello sa kalibutan",
 'p_key': "Magpilit sa pagsira niini nga programa"}
 TAM = {'h_world':"வணக்கம்!",
        'p_key': "இந்த நிரலை மூட Enter ஐ அழுத்தவும்"}
+WF = {'h_world':  "Hallo wrâld!",
+'p_key': "Druk op Enter om dit programma te sluten"}
 
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
          'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN, 'Yoruba': YO,
-          'Vietnamese':VI, 'Korean': KOR, 'Cebuano': CEB, 'Tamil':TAM }
+          'Vietnamese':VI, 'Korean': KOR, 'Cebuano': CEB, 'Tamil': TAM, 'Western Frisian': WF}
 
 print(Language_dicts.keys())
 
