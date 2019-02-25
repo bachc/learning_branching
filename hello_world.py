@@ -30,20 +30,20 @@ BEN = {'h_world': "ওহে  বিশ্ব",
 'p_key':  "Hit Enter to shut this program down"}
 YO = {'h_world': "Mo ki O Ile Aiye!",
 'p_key': "Tẹ Tẹ lati pa eto yii"}
-
 VI = {'h_world': "Chào thế giới!",
 'p_key': "Hit Enter to shut this program down"}
 KOR = {'h_world': "여러분 안녕하세요!",
 'p_key':  "창을 닫으시려면 엔터를 누르세요"}
+CEB = {'h_world':"Hello sa kalibutan",
+'p_key': "Magpilit sa pagsira niini nga programa"}
 TAM = {'h_world':"வணக்கம்!",
        'p_key': "இந்த நிரலை மூட Enter ஐ அழுத்தவும்"}
-
 
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
          'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN, 'Yoruba': YO,
-          'Vietnamese':VI, 'Korean': KOR, 'Tamil':TAM }
+          'Vietnamese':VI, 'Korean': KOR, 'Cebuano': CEB, 'Tamil':TAM }
 
 print(Language_dicts.keys())
 
