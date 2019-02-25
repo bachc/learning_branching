@@ -42,7 +42,8 @@ TAM = {'h_world':"வணக்கம்!",
        'p_key': "இந்த நிரலை மூட Enter ஐ அழுத்தவும்"}
 WF = {'h_world':  "Hallo wrâld!",
 'p_key': "Druk op Enter om dit programma te sluten"}
-
+YID = {'h_world':  "העלא וועלט",
+'p_key': "דרוק אַרייַן צו פאַרמאַכן"}
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
