@@ -44,11 +44,15 @@ WF = {'h_world':  "Hallo wrâld!",
 'p_key': "Druk op Enter om dit programma te sluten"}
 YID = {'h_world':  "העלא וועלט",
 'p_key': "דרוק אַרייַן צו פאַרמאַכן"}
+SIN = {'h_world': "හෙලෝ වර්ල්ඩ්!",
+       'p_key': "මෙම වැඩසටහන වසා දමන්න"}
+       
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Espanol': ES, 
          'Chinese': CHN, 'Italian': ITA, 'Okie': OK, 'Sanskrit': SK,
          'Urdu': URD,'Punjabi': PUNJ, 'BENGALI': BEN, 'Yoruba': YO,
-          'Vietnamese':VI,'Burmese': BUR, 'Korean': KOR, 'Cebuano': CEB, 'Tamil': TAM, 'Western Frisian': WF}
+          'Vietnamese':VI,'Burmese': BUR, 'Korean': KOR, 'Cebuano': CEB, 'Tamil': TAM,
+                  'Western Frisian': WF, 'Sinhala':SIN}
 
 print(Language_dicts.keys())
 
