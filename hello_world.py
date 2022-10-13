@@ -20,6 +20,8 @@ Th={'h_world':  "สวัสดีชาวโลก!",
       'p_key': "กด Enter เพื่อปิดโปรแกรมนี้"}
 zulu = {'h_world':  "Sawubona Mhlaba",
       'p_key': "Cindezela u-Enter ukuze uvale lolu hlelo"}
+Yid = {'h_world':  "העלא וועלט!",
+      'p_key': "דרוק אַרייַן צו פאַרמאַכן דעם פּראָגראַם"}
 #Available language dicts       
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie, 'Thai': Th, 'zulu': zulu}
