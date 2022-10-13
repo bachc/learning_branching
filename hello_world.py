@@ -2,7 +2,6 @@
 This is a simple python hello world script,
 That can be executed only in python 3.x.
 """
-abc
 #Language specific strings
 EN = {'h_world':  "Hello world!",
 'p_key': "Press Enter to close this program"}
@@ -11,6 +10,8 @@ DE = {'h_world':  "Hallo Welt!",
 DE1 = {'h_world':  "Hallo Weld!",
 'p_key': "Hau uff'd Ender-Daschde druff ums Brogram z'schliesse!"}
 vie = {'h_world': "Chào thế giới!",
+ZULU = {'h_world':  "Sawubona Mhlaba!",
+'p_key': "Cindezela u-Enter ukuze uvale lolu hlelo!"}
 # Translation from EN using google translate:
 # https://translate.google.com/?sl=auto&tl=vi&text=Hello%20world&op=translate
 'p_key': "Nhấn Enter để đóng chương trình này"}
