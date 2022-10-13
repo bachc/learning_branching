@@ -18,9 +18,11 @@ vie = {'h_world': "Chào thế giới!",
 # https://translate.google.com/?sl=auto&tl=vi&text=Press%20Enter%20to%20close%20this%20program&op=translate
 Th={'h_world':  "สวัสดีชาวโลก!",
       'p_key': "กด Enter เพื่อปิดโปรแกรมนี้"}
+zulu = {'h_world':  "Sawubona Mhlaba",
+      'p_key': "Cindezela u-Enter ukuze uvale lolu hlelo"}
 #Available language dicts       
 Language_dicts = {'English': EN,
-         'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie, 'Thai': Th}
+         'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie, 'Thai': Th, 'zulu': zulu}
 
 print("\nThe following languages are available:")
 for key in Language_dicts.keys():
