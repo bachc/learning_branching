@@ -16,10 +16,11 @@ vie = {'h_world': "Chào thế giới!",
 'p_key': "Nhấn Enter để đóng chương trình này"}
 # Translation from EN using google translate:
 # https://translate.google.com/?sl=auto&tl=vi&text=Press%20Enter%20to%20close%20this%20program&op=translate
-
+Th={'h_world':  "สวัสดีชาวโลก!",
+      'p_key': "กด Enter เพื่อปิดโปรแกรมนี้"}
 #Available language dicts       
 Language_dicts = {'English': EN,
-         'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie}
+         'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie, 'Thai': Th}
 
 print("\nThe following languages are available:")
 for key in Language_dicts.keys():
