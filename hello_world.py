@@ -1,8 +1,8 @@
-"""
+﻿"""
 This is a simple python hello world script,
 That can be executed only in python 3.x.
 """
-
+abc
 #Language specific strings
 EN = {'h_world':  "Hello world!",
 'p_key': "Press Enter to close this program"}
