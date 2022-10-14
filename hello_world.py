@@ -13,13 +13,13 @@ zulu = {'h_world':  "Sawubona Mhlaba", 'p_key': "Cindezela u-Enter ukuze uvale l
 West_Frisian={'h_world': 'Hallo wrâld!', 'p_key': 'Druk op Enter om dit programma te sluten.'}
 yoruba = {'h_world':  "Mo ki O Ile Aiye!", 'p_key': "Tẹ Tẹ lati pa eto yii"}
 Tamil = {"h_world": "வணக்கம் உலகம்", "p_key": "இந்த நிரலை மூட Enter ஐ அழுத்தவும்"}
-
+Yidi = {'h_world': 'העלא וועלט !', 'p_key': 'דרוק אַרייַן צו פאַרמאַכן דעם פּראָגראַם'}
 
 
 #Available language dicts       
 Language_dicts = {'English': EN, 'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie,
                   'Thai': Th, 'zulu': zulu, 'Western Frisian': West_Frisian,
-                  'Yoruba': yoruba, 'Tamil': Tamil, 'tamil': Tamil, 'TAMIL': Tamil}
+                  'Yoruba': yoruba, 'Tamil': Tamil, 'tamil': Tamil, 'TAMIL': Tamil, 'Yiddish' : Yidi}
 
 print("\nThe following languages are available:")
 for key in Language_dicts.keys():
