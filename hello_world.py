@@ -13,15 +13,25 @@ Th={'h_world':  "สวัสดีชาวโลก!", 'p_key': "กด Enter 
 zulu = {'h_world':  "Sawubona Mhlaba", 'p_key': "Cindezela u-Enter ukuze uvale lolu hlelo"}
 West_Frisian={'h_world': 'Hallo wrâld!', 'p_key': 'Druk op Enter om dit programma te sluten.'}
 yoruba = {'h_world':  "Mo ki O Ile Aiye!", 'p_key': "Tẹ Tẹ lati pa eto yii"}
+<<<<<<< HEAD
 Tamil = {"h_world": "வணக்கம் உலகம்", "p_key": "இந்த நிரலை மூட Enter ஐ அழுத்தவும்"}  
 
+=======
+Tamil = {"h_world": "வணக்கம் உலகம்", "p_key": "இந்த நிரலை மூட Enter ஐ அழுத்தவும்"}
+Yidi = {'h_world': 'העלא וועלט !', 'p_key': 'דרוק אַרייַן צו פאַרמאַכן דעם פּראָגראַם'}
+>>>>>>> 4f7a5bac93ee933e9926642b0807e138e0d816dd
 
 
 #Available language dicts       
 Language_dicts = {'English': EN, 'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie,
+<<<<<<< HEAD
                   'Thai': Th, 'zulu': zulu, 'Western Frisian': West_Frisian,    
                   'Yoruba': yoruba,
                   'Tamil': Tamil, 'tamil': Tamil, 'TAMIL': Tamil}      
+=======
+                  'Thai': Th, 'zulu': zulu, 'Western Frisian': West_Frisian,
+                  'Yoruba': yoruba, 'Tamil': Tamil, 'tamil': Tamil, 'TAMIL': Tamil, 'Yiddish' : Yidi}
+>>>>>>> 4f7a5bac93ee933e9926642b0807e138e0d816dd
 
 print("\nThe following languages are available:")
 for key in Language_dicts.keys():
