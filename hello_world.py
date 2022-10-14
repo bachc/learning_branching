@@ -22,10 +22,13 @@ zulu = {'h_world':  "Sawubona Mhlaba",
       'p_key': "Cindezela u-Enter ukuze uvale lolu hlelo"}
 West_Frisian={'h_world': 'Hallo wrâld!',
               'p_key': 'Druk op Enter om dit programma te sluten.'}
+yoruba = {'h_world':  "Mo ki O Ile Aiye!",
+'p_key': "Tẹ Tẹ lati pa eto yii"}
+
 #Available language dicts       
 Language_dicts = {'English': EN,
          'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie, 'Thai': Th,
-         'zulu': zulu, 'Western Frisian': West_Frisian}
+         'zulu': zulu, 'Western Frisian': West_Frisian, 'Yoruba': yoruba}
 
 print("\nThe following languages are available:")
 for key in Language_dicts.keys():
