@@ -20,9 +20,12 @@ Th={'h_world':  "สวัสดีชาวโลก!",
       'p_key': "กด Enter เพื่อปิดโปรแกรมนี้"}
 zulu = {'h_world':  "Sawubona Mhlaba",
       'p_key': "Cindezela u-Enter ukuze uvale lolu hlelo"}
+West_Frisian={'h_world': 'Hallo wrâld!',
+              'p_key': 'Druk op Enter om dit programma te sluten.'}
 #Available language dicts       
 Language_dicts = {'English': EN,
-         'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie, 'Thai': Th, 'zulu': zulu}
+         'Deutsch': DE, 'Swabian German': DE1, 'Vietnamese': vie, 'Thai': Th,
+         'zulu': zulu, 'Western Frisian': West_Frisian}
 
 print("\nThe following languages are available:")
 for key in Language_dicts.keys():
